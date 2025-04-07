@@ -16,6 +16,6 @@ const config = {
     },
     resendToken: process.env.RESEND_TOKEN!,
   },
-};
+}
 
-export default config;
+export default config
